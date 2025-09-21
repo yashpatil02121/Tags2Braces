@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@capacitor/android": "^7.4.3",
-    "@capacitor/core": "^7.4.3"
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/filesystem": "^7.1.4",
+    "capacitor-file-picker": "^1.0.10"
   },
   "devDependencies": {
     "@capacitor/assets": "^3.0.5",
