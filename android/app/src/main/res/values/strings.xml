@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tags2Braces</string>
+    <string name="title_activity_main">Tags2Braces</string>
+    <string name="package_name">com.example.tags2braces</string>
+    <string name="custom_url_scheme">com.example.tags2braces</string>
+</resources>

@@ -1,0 +1,10 @@
+{
+    "appId": "com.example.tags2braces",
+    "appName": "Tags2Braces",
+    "webDir": "www",
+    "server": {
+      "url": "https://accurate-energy-solutions.vercel.app/",
+      "cleartext": true
+    }
+  }
+  
