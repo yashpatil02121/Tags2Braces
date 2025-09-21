@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+.pnpm-debug.log
+
+# build
+dist/
+build/
+android/app/build/
+android/.gradle/
+android/.idea/
